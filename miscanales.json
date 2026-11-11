@@ -1,0 +1,78 @@
+[ 
+  {
+    "id": 1,  
+    "nombre": "AmericaTelevision.pe@SD",
+    "categoría": "Nacional",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "url": "http://190.93.224.42/AMERICA-TV/index.m3u8"
+
+  },
+{
+    "id": 2,  
+    "nombre": "36TVHuacho.pe@SD",
+    "categoría": "Deporte",
+    "imagen": "https://i.imgur.com/F4NZM3s.jpeg",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8"
+
+  },
+{
+    "id": 3,  
+    "nombre": "ABTelevision.pe@SD",
+    "categoría": "Entretenimiento",
+    "imagen": "https://i.imgur.com/tqMDscD.png",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8"
+
+  },
+{
+    "id": 4,  
+    "nombre": "AgroTV.pe@SD",
+    "categoría": "Musica",
+    "imagen": "https://i.imgur.com/1uLGa3w.png",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8"
+
+  },
+{
+    "id": 5,  
+    "nombre": "AmazonicaTV.pe@SD",
+    "categoría": "Musica",
+    "imagen": "https://i.imgur.com/22ebHAX.jpeg",
+    "url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8"
+
+  },
+{
+    "id": 6,  
+    "nombre": "AndesTelevision.pe@SD",
+    "categoría": "Musica",
+    "imagen": "https://i.imgur.com/CsW4Op8.png",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8"
+
+  },
+{
+    "id": 7,  
+    "nombre": "AntenaSUR.pe@SD",
+    "categoría": "Musica",
+    "imagen": "https://i.imgur.com/4aHrD2l.jpeg",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8"
+  },
+{
+    "id": 8,  
+    "nombre": "PequesTV.pe@SD",
+    "categoría": "entretenimiento",
+    "imagen": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
+    "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8\n"
+  },
+{
+    "id": 9,  
+    "nombre": "Yurivision.pe@SD",
+    "categoría": "entretenimiento",
+    "imagen": "https://i.imgur.com/VhWuaER.jpeg",
+    "url": "https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8"
+  },
+{
+    "id": 10,  
+    "nombre": "TVPeru.pe@SD",
+    "categoría": "entreteniminto",
+    "imagen": "https://i.imgur.com/6io0IrX.png",
+    "url": "http://190.93.224.42/TV-PERU/index.m3u8"
+  }
+]
